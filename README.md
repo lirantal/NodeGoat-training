@@ -105,10 +105,6 @@ The default application settings (database url, http port, etc.) can be changed 
 
 Please Follow [the contributing guide](CONTRIBUTING.md)
 
-## Code Of Conduct (CoC)
-
-This project is bound by a [Code of Conduct](CODE_OF_CONDUCT.md).
-
 ## Contributors
 Here are the amazing [contributors](https://github.com/OWASP/NodeGoat/graphs/contributors) to the NodeGoat project.
 
